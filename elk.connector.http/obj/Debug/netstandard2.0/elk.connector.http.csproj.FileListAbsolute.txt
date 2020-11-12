@@ -1,0 +1,10 @@
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\bin\Debug\netstandard2.0\elk.connector.http.deps.json
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\bin\Debug\netstandard2.0\elk.connector.http.dll
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\bin\Debug\netstandard2.0\elk.connector.http.pdb
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.Resource.resources
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.csproj.GenerateResource.cache
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.AssemblyInfoInputs.cache
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.AssemblyInfo.cs
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.csproj.CoreCompileInputs.cache
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.dll
+C:\Users\Altamir Dias Cassian\Source\Repos\elk.connector.http\elk.connector.http\obj\Debug\netstandard2.0\elk.connector.http.pdb

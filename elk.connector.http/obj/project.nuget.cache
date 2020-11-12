@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQQixCAaVz74pi9Dt2/c+sbXZUEuT6hejmRobEZRhesegAdsElddNxbrONHGNlhnuXMRzM+ckXw3NJ/JleqYhw==",
+  "dgSpecHash": "ILhrfYft8kb1xnJj//Xe3M8FT4Bh4hcWpLYKAH6nbcOIoSxBvDEFLJ6TDPwTBrCCutWDhvxMG21R0xm+opfoRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj",
+  "projectFilePath": "C:\\Users\\Altamir Dias Cassian\\Source\\Repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Altamir Dias Cassian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Altamir Dias Cassian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

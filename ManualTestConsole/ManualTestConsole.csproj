@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EA3301CE-3825-4D71-989F-559F888E6B7E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TesteManualConsole</RootNamespace>
-    <AssemblyName>TesteManualConsole</AssemblyName>
+    <RootNamespace>ManualTestConsole</RootNamespace>
+    <AssemblyName>ManualTestConsole</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TesteManual.cs" />
+    <Compile Include="ManualTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

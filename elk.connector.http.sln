@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elk.connector.http", "elk.connector.http\elk.connector.http.csproj", "{E629260B-9BD5-4875-962C-317EB11227E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "elk.connector.http", "elk.connector.http\elk.connector.http.csproj", "{E629260B-9BD5-4875-962C-317EB11227E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteManualConsole", "TesteManualConsole\TesteManualConsole.csproj", "{EA3301CE-3825-4D71-989F-559F888E6B7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualTestConsole", "ManualTestConsole\ManualTestConsole.csproj", "{EA3301CE-3825-4D71-989F-559F888E6B7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

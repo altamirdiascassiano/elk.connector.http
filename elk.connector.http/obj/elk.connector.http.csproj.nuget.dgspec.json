@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Altamir Dias Cassian\\source\\repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj": {}
+    "C:\\Users\\Altamir Dias Cassian\\Source\\Repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Altamir Dias Cassian\\source\\repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj": {
+    "C:\\Users\\Altamir Dias Cassian\\Source\\Repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj",
+        "projectUniqueName": "C:\\Users\\Altamir Dias Cassian\\Source\\Repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj",
         "projectName": "elk.connector.http",
-        "projectPath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj",
+        "projectPath": "C:\\Users\\Altamir Dias Cassian\\Source\\Repos\\elk.connector.http\\elk.connector.http\\elk.connector.http.csproj",
         "packagesPath": "C:\\Users\\Altamir Dias Cassian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\elk.connector.http\\elk.connector.http\\obj\\",
+        "outputPath": "C:\\Users\\Altamir Dias Cassian\\Source\\Repos\\elk.connector.http\\elk.connector.http\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Altamir Dias Cassian\\AppData\\Roaming\\NuGet\\NuGet.Config",
